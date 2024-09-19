@@ -30,9 +30,12 @@ ol li pre{
     font-size: 25px;
     font-family: 'Times New Roman', Times, serif;
 }
-.tor{
-    background-image: url(../im3/tor2.png);
+div .img{
+    background-repeat: no-repeat;
     
+    
+    
+
 }
 /* Background Color Change
 div{
